@@ -7,7 +7,7 @@ This project is designed to demonstrate key React Native concepts like state man
 ---
 ## 🖼️ UI Demo
 
-https://github.com/your-username/your-repo/assets/filename.mp4
+[assets/QuizApp.mov](https://github.com/Wafi-wahid/quiz-app/blob/main/assets/QuizApp.mov)
 
 ---
 
